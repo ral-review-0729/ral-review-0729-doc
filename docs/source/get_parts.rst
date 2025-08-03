@@ -234,13 +234,6 @@ Base, Lifting Frame & Power Supply
 .. _Male + Female pair: https://item.taobao.com/item.htm?id=659716943835
 .. _Two In Eight Out (10 piece: https://detail.tmall.com/item.htm?id=703555215026
 
-FAQ: Why Is It More Expensive Than Other Projects?
---------------------------------------------------
-
-- The arms use a parallel motor structure, providing a wider operational range and a stronger load capacity for the robotic arms
-- Adopts a lifting structure with multi-height operational capability
-- The base uses BLDC brushless motors
-
 Arms & Head Pan-Tilt
 --------------------
 
