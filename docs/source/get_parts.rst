@@ -1,5 +1,5 @@
-Get Your RBNAME Parts
-=====================
+Get Your Parts
+==============
 
 This section lists all the parts required to build the RBNAME. The list is organized by structure, motors/sensors, and electrical components. Reminder: 
 
