@@ -1,7 +1,7 @@
-Get Your AhaRobot Parts
-=======================
+Get Your RBNAME Parts
+=====================
 
-This section lists all the parts required to build the AhaRobot. The list is organized by structure, motors/sensors, and electrical components. Reminder: 
+This section lists all the parts required to build the RBNAME. The list is organized by structure, motors/sensors, and electrical components. Reminder: 
 
 - All materials can be purchased on Taobao. Aluminum profiles use MISUMI part numbers and can be purchased from online stores like JLC FA.
 - For connecting components such as corner brackets, T-nuts, screws, and nuts, it is recommended to **buy extras** as spares.
@@ -13,12 +13,12 @@ Total Cost
 +----------------------+----------------+----------------+
 | Item                 | Total (USD)    | Total (RMB)    |
 +======================+================+================+
-| AhaRobot (Base,      | **990**        | 7132.57        |
+| RBNAME (Base,        | **990**        | 7132.57        |
 | Lifting Frame &      |                |                |
 | Power Supply + Arms  |                |                |
 | & Head Pan-Tilt)     |                |                |
 +----------------------+----------------+----------------+
-| AhaRobot (Computing &| 1124           | 8098           |
+| RBNAME (Computing &  | 1124           | 8098           |
 | Computing Power      |                |                |
 | Supply)              |                |                |
 +----------------------+----------------+----------------+

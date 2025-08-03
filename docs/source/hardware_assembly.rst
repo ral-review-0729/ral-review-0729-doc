@@ -93,4 +93,4 @@ Mount the gripper to the arm, then install the arms and head pan-tilt unit to th
 .. image:: images/9281754239712_.pic.jpg
    :alt: Gripper installation
 
-🎉 You have now completed the entire AhaRobot installation.
+🎉 You have now completed the entire installation.
