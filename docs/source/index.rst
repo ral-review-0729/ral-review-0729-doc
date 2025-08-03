@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to RBNAME's documentation!
+==================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**RBNAME** is a low-cost mobile robotics platform designed to lower the entry barrier in the field of Embodied AI, enabling more researchers and users to participate.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation will guide you through the complete process of building, configuring, and using your own RBNAME system.
 
 .. note::
 
@@ -18,5 +14,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   getting_started
+   get_parts
+   hardware_assembly
+   prerequisites
+   flashing_firmware
+   teleoperation

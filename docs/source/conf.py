@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RBNAME'
+copyright = '2024, RBNAME Team'
+author = 'RBNAME Team'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.imgmath',
+    'sphinx.ext.viewcode',
 ]
 
 intersphinx_mapping = {
@@ -30,6 +32,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+# Add custom CSS for table word wrapping
+html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
